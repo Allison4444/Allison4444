@@ -9,3 +9,7 @@
 
 ### 🔨 Мой стек:
 **Git, Webpack, JavaScript, React, HTML5, CSS3**
+
+### Мои контакты:
+**Email: panshin_sergey@list.ru**
+**Telegram: @allison4444**
