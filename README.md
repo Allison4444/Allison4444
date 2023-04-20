@@ -11,5 +11,5 @@
 **Git, Webpack, JavaScript, React, HTML5, CSS3**
 
 ### Мои контакты:
-**Email: panshin_sergey@list.ru**
+**Email: panshin_sergey@list.ru** <br>
 **Telegram: @allison4444**
